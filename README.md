@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SahilSidam11
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C++ and OpenCV
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C++
+- 💞️ I’m looking to collaborate on AI/ML Projects.
 - 📫 How to reach me ...
 
 <!---

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SahilSidam11
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on AI/ML Projects.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development and App Development
+- 💞️ I’m looking to collaborate on ReactJS and Flutter Projects.
 
 <!---
 SahilSidam11/SahilSidam11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
